@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133959408152",
+    "project_id": "meauburn-backend",
+    "storage_bucket": "meauburn-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133959408152:android:e126c45f72b5912bd0816d",
+        "android_client_info": {
+          "package_name": "com.example.meauburn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEb03s5y-ds903AQat05hgEqVhrz0hluE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
